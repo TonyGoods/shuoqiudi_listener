@@ -1,0 +1,16 @@
+button {
+  outline: none;
+  margin: 10px;
+  border: none;
+  border-radius: 2px;
+  width: max-content;
+  padding: 10px;
+  background-color: #1890ff;
+  color: white;
+  cursor: pointer;
+}
+
+button:focus,
+button:hover {
+  background-color: #40a9ff;
+}
